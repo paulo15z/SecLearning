@@ -1,7 +1,7 @@
-print("calmo")
-
+# imports
 import numpy as np
 
+# estrutura principal
 
 #algoritmo de detecção
 

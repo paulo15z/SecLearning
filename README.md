@@ -7,3 +7,4 @@ Modelo de verificação de tráfego malicioso
     Dados coletados do repositório https://github.com/stamparm/ipsum
 
 Check simples de tráfego. 
+infelizmente nao tenho acesso ao meu roteador pra ativar o promisc adequadamente. 
